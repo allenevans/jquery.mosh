@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.67234320,
+                  "lng" : 0.1482710
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.35146840
+               }
+            },
+            "location" : {
+               "lat" : 51.50812890,
+               "lng" : -0.1280050
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.61910980,
+                  "lng" : 0.12811380
+               },
+               "southwest" : {
+                  "lat" : 51.3968770,
+                  "lng" : -0.38412380
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0732450,
+                  "lng" : -81.1063880
+               },
+               "southwest" : {
+                  "lat" : 42.8245170,
+                  "lng" : -81.3908520
+               }
+            },
+            "location" : {
+               "lat" : 42.9793980,
+               "lng" : -81.2461380
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0732450,
+                  "lng" : -81.1063880
+               },
+               "southwest" : {
+                  "lat" : 42.8245170,
+                  "lng" : -81.3908520
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laurel",
+               "short_name" : "Laurel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.152260,
+                  "lng" : -84.0359570
+               },
+               "southwest" : {
+                  "lat" : 37.07975890,
+                  "lng" : -84.1262620
+               }
+            },
+            "location" : {
+               "lat" : 37.12897710,
+               "lng" : -84.08326459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.152260,
+                  "lng" : -84.0359570
+               },
+               "southwest" : {
+                  "lat" : 37.07975890,
+                  "lng" : -84.1262620
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43140",
+               "short_name" : "43140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "London, OH 43140, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9217860,
+                  "lng" : -83.38999690
+               },
+               "southwest" : {
+                  "lat" : 39.859280,
+                  "lng" : -83.47892299999999
+               }
+            },
+            "location" : {
+               "lat" : 39.88644930,
+               "lng" : -83.44825290
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9217860,
+                  "lng" : -83.38999690
+               },
+               "southwest" : {
+                  "lat" : 39.859280,
+                  "lng" : -83.47892299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
